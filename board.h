@@ -1,7 +1,6 @@
 #ifndef BOARD_H
 #define BOARD_H
 
-#include <QObject>
 #include <QPushButton>
 #include <QGridLayout>
 #include <QMouseEvent>
